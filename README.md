@@ -1,10 +1,14 @@
 # Sutle
 
-![Sutle Closed Alpha Version](https://img.shields.io/badge/sutle-v0.1.0%20(closed%20alpha)-orange)
+![Sutle Alpha Version](https://img.shields.io/badge/sutle-v0.1.0%20alpha-orange)
 
 [Sutle](https://sutle.io) is a platform for saving and organizing online resources into a directed learning path.
 
 This repository serves as a place to report bugs, ask a question, etc.
+
+<a href="https://www.producthunt.com/posts/sutle?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-sutle" target="_blank">
+  <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=294219&theme=dark" alt="Sutle - Save and organize resources into a directed learning path. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
+</a>
 
 ## Links 📬
 
