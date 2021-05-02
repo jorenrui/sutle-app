@@ -16,6 +16,11 @@ This repository serves as a place to report bugs, ask a question, etc.
 - 🐦  Twitter: https://twitter.com/sutleio
 - 📧  Email: hello@sutle.io
 
+## Others techs from Jorenrui
+- [Minorui](https://github.com/jorenrui/minorui/) - the official ReactJS component UI library of Sutle
+- [Magic: The Gathering Companion app](https://github.com/jorenrui/mtg-companion) - a ReactJS app that tracks the life points of the players while playing MTG. Built for personal use.
+- [spccweb](https://github.com/jorenrui/spccweb) - an electronic grading web application, integrated with a school website, built using Laravel and Bootstrap. This is jorenrui's thesis.
+
 ## Contributing
 
 First, thanks for taking the time to contribute to Sutle! There are many ways you can help out.
